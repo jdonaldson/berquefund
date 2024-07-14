@@ -1,0 +1,39 @@
+---
+title: "Home"
+include-in-header:
+  text: '<script src="https://d3js.org/d3.v4.min.js"></script> <script src="https://davidbanksnz.github.io/d3-thermometer/thermometer.min.js"></script>'
+include-after-body:
+  text: " 
+
+  var thermometer = new Thermometer();
+	var container = document.getElementById('container');
+	thermometer.render(container, 10, 4, 19);
+"
+
+---
+---
+
+# Welcome to the Berque Fund
+
+Welcome to the Berque Fund website. This fund supports scholarships for Computer Science students in honor of Dave Berque.
+
+
+::: {#container}
+:::
+
+```{=html}
+<script>
+  var thermometer = new Thermometer({
+    mercuryColor: "rgb(220, 180, 0)",
+    width: 200,
+    height: 500
+  });
+
+
+	var container = document.getElementById('container');
+	thermometer.render(container, 10, 4, 19);
+</script>
+```
+
+
+

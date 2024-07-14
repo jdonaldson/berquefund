@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+# About the Berque Fund
+
+The Berque Fund was established to honor the contributions of Dave Berque to the field of Computer Science and his dedication to teaching.

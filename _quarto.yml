@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+toc: true
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    page-layout: full
+
+website:
+  favicon: "berque.jpg"
+  title: "Berque Fund"
+  description: "Supporting the Berque Fund for Computer Science Scholarships"
+  navbar:
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Donate"
+        href: donate.qmd
+      - text: "Contact"
+        href: contact.qmd
+  body-footer: "© 2024 Berque Fund. All rights reserved"
+
+

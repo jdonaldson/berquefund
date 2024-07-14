@@ -15,7 +15,7 @@ include-after-body:
 
 # Welcome to the Berque Fund
 
-Welcome to the Berque Fund website. This fund supports scholarships for Computer Science students in honor of Dave Berque.
+Welcome to the Dave Berque Fund website. This fund supports scholarships for Computer Science students in honor of Dave Berque.
 
 
 ::: {#container}
@@ -25,13 +25,17 @@ Welcome to the Berque Fund website. This fund supports scholarships for Computer
 <script>
   var thermometer = new Thermometer({
     mercuryColor: "rgb(220, 180, 0)",
-    width: 200,
-    height: 500
+    width: 300,
+    height: 500,
+    bulbRadius: 20,
+    tubeWidth: 30,
+    borderWidth: 3,
   });
 
 
+
 	var container = document.getElementById('container');
-	thermometer.render(container, 10, 4, 19);
+	thermometer.render(container, 15, 15, 150);
 </script>
 ```
 

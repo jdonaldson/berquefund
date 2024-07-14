@@ -151,20 +151,24 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 <section id="welcome-to-the-berque-fund" class="level1">
 <h1>Welcome to the Berque Fund</h1>
-<p>Welcome to the Berque Fund website. This fund supports scholarships for Computer Science students in honor of Dave Berque.</p>
+<p>Welcome to the Dave Berque Fund website. This fund supports scholarships for Computer Science students in honor of Dave Berque.</p>
 <div id="container">
 
 </div>
 <script>
   var thermometer = new Thermometer({
     mercuryColor: "rgb(220, 180, 0)",
-    width: 200,
-    height: 500
+    width: 300,
+    height: 500,
+    bulbRadius: 20,
+    tubeWidth: 30,
+    borderWidth: 3,
   });
 
 
+
     var container = document.getElementById('container');
-    thermometer.render(container, 10, 4, 19);
+    thermometer.render(container, 15, 15, 150);
 </script>
 
 

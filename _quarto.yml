@@ -9,6 +9,7 @@ format:
     theme: sandstone
     css: styles.css
     page-layout: full
+    linkcolor: goldenrod
 
 website:
   favicon: "berque.jpg"

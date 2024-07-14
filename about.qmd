@@ -1,7 +1,7 @@
 ---
 title: "About Dave Berque"
+image: berque.jpg
 ---
-
 
 Dave Berque is a distinguished figure in the field of computer science
 education, known for his innovative teaching methodologies and expertise in

@@ -1,12 +1,9 @@
 ---
-title: "Home"
+title: "Welcome to the Berque Fund"
 include-in-header:
   text: '<script src="https://d3js.org/d3.v4.min.js"></script> <script src="https://davidbanksnz.github.io/d3-thermometer/thermometer.min.js"></script>'
 
 ---
----
-
-# Welcome to the Berque Fund
 
 Welcome to the Dave Berque Fund website. This fund supports scholarships for Computer Science students in honor of Dave Berque.
 

@@ -11,8 +11,35 @@ include-in-header:
 Welcome to the Dave Berque Fund website. This fund supports scholarships for Computer Science students in honor of Dave Berque.
 
 
+::: {.grid}
+
+::: {.g-col-4}
 ::: {#container}
 :::
+:::
+
+
+::: {.g-col-8}
+
+Initial Steps:
+
+* Create a Scholarship Fund: We will start by creating a scholarship fund through DePauw.
+* Seed the Fund: Our target is to raise approximately $150,000 with pledges over the next 12 months. Donations can be made this year and/or next year.
+* Utilize company matching programs to maximize contributions.
+* Multi-year gift pledges are not feasible at this stage, as we need to complete this within the first year.
+* Future Possibilities:
+  * Broader Outreach: Once we have pledges from our group, we will reach out to other alumni through broader email campaigns and targeted 1:1s.
+  * Potential Expansion: Depending on the success of our initial fundraising, we may consider setting a higher target (e.g., a $2 million endowed chair).
+  This would involve more support from DePauw and coordination with their larger capital campaign.
+  At this point, larger, multi-year pledges can be discussed.
+
+
+:::
+
+
+:::
+
+
 
 ```{=html}
 <script>

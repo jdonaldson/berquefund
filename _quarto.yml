@@ -16,6 +16,7 @@ website:
   google-analytics: "G-9PZD005WZV"
   description: "Supporting the Berque Fund for Computer Science Scholarships"
   navbar:
+    logo: "berque.jpg"
     search: true
     left:
       - text: "Home"
@@ -23,9 +24,7 @@ website:
       - text: "About"
         href: about.qmd
       - text: "Donate"
-        href: donate.qmd
-      - text: "Contact"
-        href: contact.qmd
+        href: https://docs.google.com/forms/d/1I9WnVBsZNq8AIKP5NwdT17g4cD0Ba23mgQg3KGgXKKA/edit
   body-footer: "© 2024 Berque Fund. All rights reserved"
 
 

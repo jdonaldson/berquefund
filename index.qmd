@@ -10,15 +10,16 @@ Welcome to the Dave Berque Fund website. This fund supports scholarships for Com
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-2}
 ::: {#container}
 :::
 :::
+::: {.g-col-1}
+:::
 
 
-::: {.g-col-8}
+::: {.g-col-9}
 
-Initial Steps:
 
 * Create a Scholarship Fund: We will start by creating a scholarship fund through DePauw.
 * Seed the Fund: Our target is to raise approximately $150,000 with pledges over the next 12 months. Donations can be made this year and/or next year.
@@ -42,8 +43,8 @@ Initial Steps:
 <script>
   var thermometer = new Thermometer({
     mercuryColor: "rgb(220, 180, 0)",
-    width: 300,
-    height: 500,
+    width: 100,
+    height: 300,
     bulbRadius: 20,
     tubeWidth: 30,
     borderWidth: 3,

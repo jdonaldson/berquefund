@@ -1,14 +1,18 @@
 ---
 title: "About Dave Berque"
-image: berque.jpg
+image: berque_crop.png
+about:
+  id: hero-heading
+  template: jolla
+  image-width: 30em
 ---
 
-Dave Berque is a distinguished figure in the field of computer science
-education, known for his innovative teaching methodologies and expertise in
-human-computer interaction (HCI). He dedicates himself to shaping the next
-generation of technologists through his role as an educator, imparting
-knowledge and inspiring countless students. Beyond the classroom, Dave Berque's
-impact is evident in the ongoing efforts of his former students to establish a
-scholarship or endowment in his honor. His legacy continues to resonate through
-his significant contributions to both academia and the broader community of
-technology education.
+
+Dave holds a B.A. degree from Haverford College and M.S. and Ph.D. degrees from
+Rensselaer Polytechnic Institute. He teaches a wide range of computer science
+courses and has particular teaching and research interests related to Human
+Computer Interaction and pen-based computing.  Dave also teaches
+interdisciplinary courses related to design.  He holds three United States
+Patents and is the originator of a pen-based instructional technology software
+system that is the basis of the commercial system now known as DyKnow.
+

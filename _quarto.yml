@@ -12,12 +12,12 @@ format:
     linkcolor: goldenrod
 
 website:
-  favicon: "berque.jpg"
-  title: "Berque Fund"
+  favicon: "berque_crop.png"
+  title: "Berque Fund  🦍🍌💰"
   google-analytics: "G-9PZD005WZV"
   description: "Supporting the Berque Fund for Computer Science Scholarships"
   navbar:
-    logo: "berque.jpg"
+    logo: "berque_crop.png"
     search: true
     left:
       - text: "Home"

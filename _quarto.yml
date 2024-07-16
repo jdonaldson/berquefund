@@ -13,7 +13,7 @@ format:
 
 website:
   favicon: "berque_crop.png"
-  title: "Berque Fund  🦍🍌💰"
+  title: "Berque Fund"
   google-analytics: "G-9PZD005WZV"
   description: "Supporting the Berque Fund for Computer Science Scholarships"
   navbar:
